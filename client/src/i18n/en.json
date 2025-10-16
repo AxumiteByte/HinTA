@@ -1,0 +1,175 @@
+{
+  "Home": "Home",
+  "Programs": "Programs",
+  "Events": "Events",
+  "News": "News",
+  "Directorate": "Directorate",
+  "About": "About",
+  "Admin": "Admin",
+  "Login": "Login",
+  "Register": "Register",
+  "Logout": "Logout",
+
+  "hero": {
+    "title": "Driving Innovation and Scientific Excellence in Harar",
+    "description": "Harar Innovation & Science fosters research, innovation, and technological development. Explore programs, events, and resources designed to empower our community and advance knowledge for a brighter future.",
+    "cta": "Explore Programs & Opportunities",
+    "imageAlt": "Innovation Illustration"
+  },
+
+  "about": {
+    "missionTitle": "Our Mission",
+    "missionDescription": "Harar Innovation & Technology Agency is dedicated to fostering research, innovation, and scientific development in the region. We support local talent, promote knowledge-sharing, and create opportunities that drive sustainable growth and technological advancement for the Harar community."
+  },
+
+  "programs": {
+    "page": {
+      "pageTitle": "Our ",
+      "programsText": "Programs",
+      "noPrograms": "No programs available",
+      "category": "Category",
+      "status": "Status",
+      "start": "Start Date",
+      "end": "End Date",
+      "readMore": "Read More"
+    },
+    "section": {
+      "heading": "Our Programs",
+      "noPrograms": "No programs available",
+      "cta": "View All Programs"
+    }
+  },
+
+  "events": {
+    "upcomingTitle": "Upcoming Events",
+    "viewAllCTA": "View All Events",
+    "home": {
+      "title": "Stay Updated with Our Events",
+      "description": "Check out the latest opportunities, summits, and workshops happening in Harar and online."
+    },
+    "page": {
+      "pageTitle": "All Upcoming",
+      "halfTitle": "Events",
+      "description": "Explore all scheduled events and opportunities to connect, learn, and innovate.",
+      "noEvents": "No upcoming events available."
+    },
+    "innovationSummit": {
+      "title": "Innovation Summit 2025",
+      "date": "March 15, 2025",
+      "location": "Addis Ababa",
+      "description": "Join leading innovators and entrepreneurs for talks, networking, and workshops."
+    },
+    "startupPitch": {
+      "title": "Startup Pitch Night",
+      "date": "April 22, 2025",
+      "location": "Virtual Event",
+      "description": "Pitch your startup to investors and get valuable feedback and funding opportunities."
+    },
+    "techBootcamp": {
+      "title": "Tech Bootcamp",
+      "date": "May 10-14, 2025",
+      "location": "Bahir Dar",
+      "description": "Learn latest tech skills from expert instructors in an immersive week-long bootcamp."
+    }
+  },
+
+  "successStories": {
+    "heading": "Success Stories",
+    "story1": {
+      "text": "Thanks to Harar Innovation & Science, our startup secured funding and grew from 2 to 20 employees in just one year!",
+      "author": "Alemayehu, Founder of TechForGood"
+    },
+    "story2": {
+      "text": "The mentorship and events opened doors I never imagined. I now lead a project impacting hundreds of local students.",
+      "author": "Mulu, Software Engineer & Entrepreneur"
+    },
+    "story3": {
+      "text": "Through their bootcamps, I gained skills that landed me my dream job in software engineering.",
+      "author": "Sara, Full-Stack Developer"
+    }
+  },
+
+  "news": {
+    "heading": "Latest News & Updates",
+    "cta":"View All News",
+    "page": {
+      "title": "Innovation News",
+      "innovation": "Innovation",
+      "news": "News",
+      "description": "Stay updated with the latest opportunities and programs.",
+      "noNews": "No news available at the moment.",
+      "readMore": "Read More"
+    }
+  },
+
+  "partners": {
+    "heading": "Affiliated Institution",
+    "partner1": "InteleGence",
+    "partner2": "INSA",
+    "partner3": "Eta"
+  },
+
+  "callToAction": {
+    "title": "Ready to Make a Difference?",
+    "description": "Join Harar Innovation & Science today and be part of Ethiopia’s technology and innovation revolution.",
+    "cta": "Get Started"
+  },
+
+  "directorate": {
+    "pageTitle": "Directorate",
+    "contact": "Contact"
+  },
+
+  "footer": {
+    "mission": "Empowering innovation, technology, and entrepreneurship across Ethiopia.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "rights": "All rights reserved."
+  },
+
+
+  "aboutPage": {
+    "hero": {
+      "title": "About Harar Innovation & Tecnolgy Agency",
+      "description": "Harar Innovation & Tecnlogy Agency is a government-led platform dedicated to accelerating digital transformation, empowering local talent, and creating sustainable economic opportunities through technology and entrepreneurship."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To unlock Ethiopia's innovation potential by nurturing tech-driven startups, fostering creative ecosystems, and enabling inclusive access to digital resources and opportunities across all regions."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "We envision an Ethiopia where innovation is inclusive, technology is accessible, and every citizen — from urban entrepreneurs to rural youth — can contribute to and benefit from a digital future."
+    },
+    "whatWeDo": {
+      "heading": "What We Do",
+      "startups": "Incubate and accelerate early-stage startups with funding, mentorship, and workspaces.",
+      "bootcamps": "Host nationwide tech bootcamps, hackathons, and innovation challenges.",
+      "partnerships": "Facilitate partnerships between government, universities, and the private sector.",
+      "stem": "Promote STEM education and digital skills training in schools and communities.",
+      "policy": "Drive policy and advocacy to support Ethiopia’s digital economy."
+    },
+    "coreValues": {
+      "heading": "Our Core Values",
+      "inclusivity": "Inclusivity",
+      "inclusivityDesc": "We ensure equal access to innovation support regardless of gender, age, background, or geography.",
+      "integrity": "Integrity",
+      "integrityDesc": "We operate with full transparency, accountability, and ethical responsibility in all engagements.",
+      "collaboration": "Collaboration",
+      "collaborationDesc": "We build bridges between government, academia, industry, and communities to scale innovation impact."
+    },
+    "nationalImpact": {
+      "heading": "Our National Impact",
+      "innovators": "Innovators Reached",
+      "startups": "Startups Supported",
+      "programs": "National Programs Run"
+    },
+    "cta": {
+      "heading": "Join Ethiopia’s Innovation Movement",
+      "description": "Whether you are an innovator, partner, educator, or policymaker — Harar Innovation & Science invites you to be part of our mission to empower the future of technology in Ethiopia.",
+      "button": "Contact Us"
+    }
+  }
+}
